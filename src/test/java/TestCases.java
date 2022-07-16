@@ -5,6 +5,7 @@ public class TestCases {
     @Test
     void test1(){
         System.out.println("inside test1");
+
     }
 
 }
